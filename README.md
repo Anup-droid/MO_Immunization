@@ -1,2 +1,2 @@
 # Missed Opprtunity of Simultaneous Vaccine
-It is a interactive dashboard, which serves as a dynamic and user-friendly tool for visualizing and monitoring the changing pattern of missed opportunities in simultaneous vaccine administration across India. 
+This is an interactive dashboard of routine immunization, which serves as a dynamic and user-friendly tool for visualizing and monitoring the changing pattern of missed opportunities in simultaneous vaccine administration across India. This innovative dashboard provides real-time insights and facilitates data-driven decision-making, enabling stakeholders to make informed choices to enhance vaccination strategies and optimize public health outcomes.
